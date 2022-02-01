@@ -101,7 +101,7 @@ def mking():
         print '\x1b[1;97m-------------------------------------------------'
         open('.login.txt', 'w').write(sultani)
         raw_input(' %s\x1b[0;92m*%s Press enter to continue tools ' % (O, N))
-        mr___profaisor(sultani)
+        mr__profaisor(sultani)
         os.system('xdg-open https://t.me/sultani1122')
         coment()
     except KeyError:
